@@ -38,7 +38,7 @@ public class ConditionalStatements {
 
 	System.out.println("Grade is " + grade);
 
-	if (grade.equals("Fail")) {
+	if (grade.equals("fail")) {
         System.out.println("Please work harder next time.");
     } else if (grade.equals("A+") || grade.equals("A")) {
         System.out.println("Excellent performance!");
